@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { rgb, greenBright, bgBlack, whiteBright } from 'ansis'
 
 const showCursor = () => {
