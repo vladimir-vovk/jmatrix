@@ -1,0 +1,27 @@
+{
+  "name": "jmatrix",
+  "version": "1.0.0",
+  "main": "./matrix.js",
+  "bin": {
+    "jmatrix": "./matrix.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "matrix",
+    "screensaver"
+  ],
+  "author": "Vladimir Vovk",
+  "homepage": "https://github.com/vladimir-vovk/jmatrix",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimir-vovk/jmatrix.git"
+  },
+  "license": "ISC",
+  "description": "The Matrix Screensaver",
+  "type": "module",
+  "dependencies": {
+    "ansis": "^3.4.0"
+  }
+}
